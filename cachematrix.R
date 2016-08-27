@@ -1,5 +1,5 @@
 #' Functions, makeCacheMatrix and cacheSolve, to calculate inverted matrices
-#' using cacheing to speed up the Calculation where possible.
+#' using caching to speed up the Calculation where possible.
 #' 
 #' @example Example use:
 #' m <- makeCacheMatrix()
